@@ -1,0 +1,13 @@
+# Java compiled files
+*.class
+
+# JDBC driver jar
+postgresql-*.jar
+
+# IDE folders
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
